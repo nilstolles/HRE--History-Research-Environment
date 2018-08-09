@@ -2,7 +2,7 @@
  * Title: Proposal for RequestManager classes for Client
  * Project: HRE
  * Author: Nils Tolleshaug
- * Date: 6.8.2018
+ * Date: 9.8.2018
  ********************************************************************/
 
 import java.io.InputStream;
